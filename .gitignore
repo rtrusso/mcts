@@ -1,2 +1,4 @@
-MonteCarloTreeSearch.egg-info
+*~
+*.pyc
 __pycache__
+*.egg-info
